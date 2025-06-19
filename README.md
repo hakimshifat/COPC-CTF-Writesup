@@ -113,6 +113,6 @@ Can you find the key and retrieve the flag?
 Encrypted String : OC\Ow9=a|@?St<~S=9Sb<;S9?OY~?q
 
 The first thing came to mind is to bruteforce it using *cyberchef*
-![](attachments/Pasted%20image%2020250619153120.png)
+![](attachments/Pasted%20image%2020250619153936.png)
 And it gave away the flag.
 
