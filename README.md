@@ -50,7 +50,7 @@ A Text file is given as follows.
 
 ```
 
-Every Question mark on this chunk of texts are Inverted / Reversed. So first thing is to Reverse it again to make it straight.
+The texts are Inverted / Reversed. So first thing is to Reverse it again to make it straight.
 Search in google *reverse text* and use any website of your choice. Which gives
 ```txt
 
