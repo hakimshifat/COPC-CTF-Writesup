@@ -11,7 +11,7 @@ An Image is Given. First Thing is to run *exiftool* or simple online *metadata* 
 ![](attachments/Pasted%20image%2020250619151129.png)
 
 In the Comment Section, we can see a encoded string.
-Then we have many options. Like CyberChef, docde.fr etc. I choose base64 and put Magic as Recipe to detect the encryption.
+Then we have many options. Like CyberChef, docde.fr etc. I choose Magic as Recipe to detect the encryption.
 ![](attachments/Pasted%20image%2020250615130726.png)
 
 And It Gave the flag
